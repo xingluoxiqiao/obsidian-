@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "dba6aaec15070568",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6a3dd7c7f59d3b",
+        "type": "tabs",
+        "dimension": 69.6594427244582,
+        "children": [
+          {
+            "id": "bfe72fa7e7506c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00冷静/4.5.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "69e069693fca6323"
+          }
+        ]
+      },
+      {
+        "id": "ea44d10d71cbbf69",
+        "type": "tabs",
+        "dimension": 30.34055727554179,
+        "children": [
+          {
+            "id": "ca04f98901015132",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00冷静/4.5.md"
+              }
+            },
+            "group": "69e069693fca6323"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0205e16647915b39",
+    "type": "split",
+    "children": [
+      {
+        "id": "533f0edf3ffe1ab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaa2956667571e2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13976446fdbc169b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "投递",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6954dc2db12e934a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec6bb172bb4b23a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d246ed39c12b2032",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe04f67cbb67b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80eb78332da5ed7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00冷静/4.5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca535282c7f81e76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00冷静/4.5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2b5be3977525711",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bf213eea66a07c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00冷静/4.5.md"
+              }
+            }
+          },
+          {
+            "id": "81f692ae27eb0539",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "aaa2956667571e2c",
+  "lastOpenFiles": [
+    "00冷静/Untitled 1.md",
+    "00冷静/4.5.md",
+    "00冷静/3.17.md",
+    "00冷静/4.4初期报告.md",
+    "00冷静/3.29.md",
+    "00冷静/3.24.md",
+    "项目/shortLink/README-shortLink.md",
+    "00POST/算法/排序算法.md",
+    "0面经/投递汇总.md",
+    "0面试整理/其它可能的问题.md",
+    "00冷静/面经.md",
+    "00冷静/12月/12.21.md",
+    "00冷静/12月/12.19.md",
+    "00冷静/2月/2.25.md",
+    "00POST/RocketMQ/RocketMQ.md",
+    "马原毛概/毛概.md",
+    "1黑马八股文/6微服务面试题-参考回答.md",
+    "项目/12306/README-12306.md",
+    "0面经/公司.md",
+    "00冷静/3.4.md",
+    "项目/12306/组件库/2规约组件模块.md",
+    "00冷静/2月/2.28.md",
+    "00冷静/2月/2.23.md",
+    "00冷静/2月/2.29.md",
+    "00冷静/3.1.md",
+    "00冷静/3.2.md",
+    "Pasted image 20240317105405.png",
+    "20190324183705231.png",
+    "发展与分类.png",
+    "计算机网络.pdf",
+    "模型机数据通路框图.png",
+    "特征.png",
+    "运行机制和体系结构.png",
+    "中断分类.png",
+    "00POST/操作系统",
+    "00POST/计算机网络",
+    "00POST/golang",
+    "00POST/开发工具",
+    "Pasted image 20240309233618.png",
+    "Pasted image 20240307155933.png",
+    "Pasted image 20240307155929.png",
+    "00冷静/2月",
+    "00POST/算法",
+    "00冷静/12月",
+    "0000每日任务",
+    "项目/文件系统",
+    "00POST/未命名.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 7.canvas",
+    "未命名 3.canvas",
+    "未命名 6.canvas",
+    "未命名 5.canvas",
+    "未命名 4.canvas"
+  ]
+}
